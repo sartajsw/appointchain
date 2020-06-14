@@ -461,3 +461,5 @@ def show_hosts(blockchain):
     response = {'Message': 'Showing all host locations',
                 'Locations': locations}
     return response
+
+# TODO: Add flask again
